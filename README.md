@@ -1,5 +1,4 @@
 # info
 My Public Information
 
-
-https://-nm.zoom.us/j/92848864132?pwd=VGpmWWU4Y084Yzlhb1U4Uy9nQU14Zz09
+https://-nm.zoom.us/j/96802460452?pwd=NUNrc2tJV3dJWTY1VWtSVCsrN25Ndz09
