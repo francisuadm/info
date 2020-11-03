@@ -2,4 +2,4 @@
 My Public Information
 
 
--nm.zoom.us/webinar/register/WN_2FzP_pVSQbOYgEEHISWbEQ
+https://-nm.zoom.us/webinar/register/WN_DYX8IykaTVeNHVW8NCGksA
