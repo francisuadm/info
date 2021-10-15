@@ -7,3 +7,9 @@ https://-nm.zoom.us/w/94536726523?tk=c8PevRqSJUXSafql4kj462qUXL4_8ErCtH1Iy0LvC64
 ```
 https://-nm.zoom.us/j/95882145535?pwd=MmtHajlKSnJIcDVpb3FIS0ZVQ1oxUT09
 ```
+
+
+```
+NDI.TV v5.x
+https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe
+```
