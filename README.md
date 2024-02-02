@@ -24,3 +24,22 @@ https://download.sysinternals.com/files/SysinternalsSuite.zip
 NDI.TV v5.x
 https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe
 ```
+
+
+
+
+# Viewing Youtube video without using youtube.com 
+
+```
+First you'll need to find the YouTube URL by searching in YouTube
+
+Once you have the URL from youtube that you want. 
+now you'll need use yt-dlp
+
+Here's are the command to find the full URL of that video from youtube 
+
+yt-dlp -f b https://www.youtube.com/watch?v=wPONQPyiOBQ --get-url
+
+After you enter this command you'll get the new generated URL address
+copy and paste it to any web browser you like to use
+```
