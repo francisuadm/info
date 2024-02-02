@@ -12,8 +12,7 @@ netstat -ano | findstr "ESTABLISHED"
 wmic process where processid=5234 get ExecutablePath
 ```
 
-#
-Sysinternals Suite
+# Sysinternals Suite
 
 ```
 https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
