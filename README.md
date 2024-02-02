@@ -43,3 +43,8 @@ yt-dlp -f b https://www.youtube.com/watch?v=wPONQPyiOBQ --get-url
 After you enter this command you'll get the new generated URL address
 copy and paste it to any web browser you like to use
 ```
+
+
+```
+https://ostechnix.com/yt-dlp-tutorial/
+```
