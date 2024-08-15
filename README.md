@@ -1,7 +1,10 @@
 # info
 Notes:
+<!--
+## ***_<sub>How to force sync-up update</sup>_***
+ TO DO: add more details about me later -->
 
-<!--- check this website https://github.com/suno-ai/bark/tree/main ----!>
+check this website https://github.com/suno-ai/bark/tree/main -->
 
 
 ``
